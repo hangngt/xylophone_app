@@ -2,5 +2,5 @@
 
 A new Flutter project.
 
-![Image](https://github.com/user-attachments/assets/9c4c78ff-7fbb-4efc-be05-67658526d916)
+![Image](https://github.com/user-attachments/assets/59f56f72-b226-40da-83b7-da65e23174da)
 
